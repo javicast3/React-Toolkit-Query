@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Elsie Price",
+      "id": 3
+    },
+    {
+      "name": "Harold Strosin",
+      "id": 4
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Modern Concrete Tuna",
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "title": "Luxurious Rubber Salad",
+      "id": 13
+    },
+    {
+      "userId": 4,
+      "title": "Unbranded Steel Chair",
+      "id": 14
+    },
+    {
+      "userId": 3,
+      "title": "Generic Wooden Mouse",
+      "id": 15
+    },
+    {
+      "userId": 4,
+      "title": "Ergonomic Concrete Chicken",
+      "id": 17
+    },
+    {
+      "userId": 4,
+      "title": "Luxurious Cotton Soap",
+      "id": 18
+    }
+  ],
+  "photos": []
+}
